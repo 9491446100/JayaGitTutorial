@@ -1,3 +1,5 @@
 hey , I am ingesting the data in this file.
 master here baby.Let me also contribute to the project.
-Now I am working with master 
+<<<<<<< HEAD
+
+>>>>>>> feature_sri_1
