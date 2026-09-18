@@ -1,5 +1,2 @@
-hey , I am ingesting the data in this file.
+hey , I am ingesting the data in this file bug is fixed.
 master here baby.Let me also contribute to the project.
-<<<<<<< HEAD
-
->>>>>>> feature_sri_1
