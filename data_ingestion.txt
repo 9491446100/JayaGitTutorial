@@ -1,5 +1,6 @@
 hey , I am ingesting the data in this file.
 master here baby.Let me also contribute to the project.
-<<<<<<< HEAD
 
->>>>>>> feature_sri_1
+
+
+I am fixing this bug.
