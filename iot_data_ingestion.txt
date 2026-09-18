@@ -1,1 +1,5 @@
 I am ingesting real-time data.
+<<<<<<< HEAD
+=======
+
+>>>>>>> feature_jaya_1
